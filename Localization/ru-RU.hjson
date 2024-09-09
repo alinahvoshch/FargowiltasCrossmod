@@ -21,6 +21,7 @@ Mods: {
 			Activation: Режим Вечная месть активирован!
 			Deactivation: Режим Вечная месть деактивирован.
 		}
+
 		EternityDeathDifficulty: {
 			Name: Вечная смерть
 			ShortDescription: "[c/00FFFF:Испытывающий способности режим от модов Fargo, включающий в себя изменения из] [c/800080:режима Смерть][c/00FFFF: и дополненные ИИ ванильных боссов.]"
@@ -45,6 +46,7 @@ Mods: {
 			Activation: Режим Вечная смерть активирован!
 			Deactivation: Режим Вечная смерть деактивирован.
 		}
+
 		Configs: {
 			CalDLCConfig: {
 				DisplayName: Конфигурация Calamity
@@ -150,34 +152,42 @@ Mods: {
 				DisplayName: Ядро Аструма
 				Tooltip: Призывает Аструм Деуса
 			}
+
 			BirbPheromones: {
 				DisplayName: Феромоны птичбки
 				Tooltip: Призывает Псевдодракона
 			}
+
 			BlightedEye: {
 				DisplayName: Гибельный глаз
 				Tooltip: Призывает Клон Каламитас
 			}
+
 			BloodyWorm: {
 				DisplayName: Кровяной червь
 				Tooltip: Призывает Старого Герцога
 			}
+
 			ChunkyStardust: {
 				DisplayName: Звёздная пыль с комочками
 				Tooltip: Призывает Аструм Ауреса
 			}
+
 			CryingKey: {
 				DisplayName: Кривоключ
 				Tooltip: Призывает Криогена
 			}
+
 			DefiledCore: {
 				DisplayName: Нечистое ядро
 				Tooltip: Призывает Провиденс
 			}
+
 			DefiledShard: {
 				DisplayName: Нечистый рсколок
 				Tooltip: Призывает Осквернённых стражей
 			}
+
 			DragonEgg: {
 				DisplayName: Драконье яйцо
 				Tooltip: Призывает Ярона
@@ -429,6 +439,7 @@ Mods: {
 					Improves wing gliding
 					''' */
 			}
+
 			PlagueReaperEnchant: {
 				// DisplayName: Plague Reaper Enchantment
 				/* Tooltip:
@@ -438,10 +449,12 @@ Mods: {
 					Once fully charged, it explodes into a massive lingering cloud
 					''' */
 			}
+
 			PlaguebringerEnchant: {
 				// DisplayName: Plaguebringer Enchantment
 				// Tooltip: All damage over time debuffs spread between enemies
 			}
+
 			ReaverEnchant: {
 				// DisplayName: Reaver Enchantment
 				/* Tooltip:
@@ -452,6 +465,7 @@ Mods: {
 					The buffs regenerate over time
 					''' */
 			}
+
 			HydrothermicEnchant: {
 				// DisplayName: Hydrothermic Enchantment
 				/* Tooltip:
@@ -460,6 +474,7 @@ Mods: {
 					While overheated, attack speed is increased, DR is reduced, and you cannot stop attacking
 					''' */
 			}
+
 			DevastationForce: {
 				// DisplayName: Devastation Force
 				/* Tooltip:
@@ -472,6 +487,7 @@ Mods: {
 					[i:FargowiltasCrossmod/PlaguebringerEnchant] Debuffs spread between enemies
 					''' */
 			}
+
 			UmbraphileEnchant: {
 				// DisplayName: Umbraphile Enchantment
 				/* Tooltip:
@@ -480,6 +496,7 @@ Mods: {
 					The bats lifesteal from enemies for you
 					''' */
 			}
+
 			TitanHeartEnchant: {
 				// DisplayName: Titan Heart Enchantment
 				// Tooltip: ""
@@ -513,6 +530,7 @@ Mods: {
 					'''
 			}
 		}
+
 		NPCs: {
 			FungalClump.DisplayName: Грибной комок
 			LargePerforatorBody.DisplayName: Большой Перфоратор
@@ -521,6 +539,7 @@ Mods: {
 			LargePerforatorTail.DisplayName: Большой Перфоратор
 			PermafrostBoss.DisplayName: Пермафрост
 		}
+
 		Projectiles: {
 			FungusBall.DisplayName: Грибной шар
 			MushroomSpear.DisplayName: Грибное копьё
